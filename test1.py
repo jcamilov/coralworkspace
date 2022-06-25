@@ -34,5 +34,5 @@ for i in range(4):
   }
   res = requests.put(url,data)
   print(res)
-  time.sleep(3)
+  time.sleep(2)
 
